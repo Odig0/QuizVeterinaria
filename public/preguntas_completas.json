@@ -1,0 +1,124 @@
+{
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animales",
+      "question": "¿Cada cuánto se recomienda bañar a un perro sano?",
+      "correct_answer": "Cada 4 a 6 semanas",
+      "incorrect_answers": [
+        "Cada semana",
+        "Cada 2 días",
+        "Una vez al año"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animales",
+      "question": "¿Cuál es la temperatura corporal normal de un gato?",
+      "correct_answer": "38-39°C",
+      "incorrect_answers": [
+        "36-37°C",
+        "39-40.5°C",
+        "34-35°C"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animales",
+      "question": "¿Qué alimento humano es tóxico para los perros?",
+      "correct_answer": "Chocolate",
+      "incorrect_answers": [
+        "Manzana",
+        "Zanahoria",
+        "Arroz"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animales",
+      "question": "¿Cuántos dientes permanentes tiene un perro adulto?",
+      "correct_answer": "42",
+      "incorrect_answers": [
+        "32",
+        "36",
+        "28"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animales",
+      "question": "¿Qué indica un ronroneo en los gatos?",
+      "correct_answer": "Puede ser señal de placer o también de dolor",
+      "incorrect_answers": [
+        "Siempre están felices",
+        "Están enojados",
+        "Quieren dormir"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animales",
+      "question": "¿Cuál es el promedio de vida de un gato doméstico bien cuidado?",
+      "correct_answer": "12 a 18 años",
+      "incorrect_answers": [
+        "6 a 8 años",
+        "20 a 25 años",
+        "3 a 5 años"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animales",
+      "question": "¿Qué vacuna es obligatoria en la mayoría de países para perros y gatos?",
+      "correct_answer": "Rabia",
+      "incorrect_answers": [
+        "Parvovirus",
+        "Moquillo",
+        "Leucemia felina"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animales",
+      "question": "¿Qué raza de perro es conocida por su inteligencia y facilidad para entrenar?",
+      "correct_answer": "Border Collie",
+      "incorrect_answers": [
+        "Chow Chow",
+        "Bulldog Inglés",
+        "Shih Tzu"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animales",
+      "question": "¿Qué parte del cuerpo del gato se utiliza para orientarse y equilibrarse?",
+      "correct_answer": "La cola",
+      "incorrect_answers": [
+        "Las orejas",
+        "Las patas traseras",
+        "El hocico"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Animales",
+      "question": "¿Qué significa si un perro mueve la cola lentamente y baja?",
+      "correct_answer": "Está inseguro o con miedo",
+      "incorrect_answers": [
+        "Está feliz",
+        "Está enfermo",
+        "Está listo para jugar"
+      ]
+    }
+  ]
+}
